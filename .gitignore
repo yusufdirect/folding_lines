@@ -1,0 +1,12 @@
+build/
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+*.log
+.vscode/
+.agents/
+AGENTS.md
+CLAUDE.md
+.DS_Store
