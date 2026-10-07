@@ -1,3 +1,5 @@
+https://yusuf.direct/work/folding-lines
+
 # Folding Lines
 
 **Folding Lines** is an exploration of human-machine interaction through the visualization of abstract lines in motion. Built with C++, raylib, a screen, and a small MIDI board, the project turns drawing into a live visual performance where the user does not directly paint, but instead controls a system that generates, repeats, folds, and collapses line-based compositions.
